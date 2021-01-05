@@ -1,0 +1,67 @@
+body{
+    margin: 0;
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color:lightblue;
+}
+section{
+
+    height: 500px;
+}
+.about-me{
+    width: 30%;
+    float: left;
+    margin-bottom: 1%;
+    padding-left: 2%;
+}
+.about-me img{
+    width: 100%;
+}
+.link-button{
+    text-decoration: none;
+    border-radius: 5px;
+    background-image: linear-gradient(rgba(109, 23, 158, 0.486), rgba(38, 54, 43, 0.897));
+    padding: 5px 5px;
+    color: honeydew;
+}
+.me{
+    color: indigo;
+}
+.text{
+    text-align: justify;
+}
+h3{
+    font-size: 30px;
+    color: rgb(53, 92, 14);
+}
+h1{
+    font-size: 35px;
+    color:rgb(44, 4, 17);
+}
+h5{
+    font-size: 20px;
+    color: rgb(30, 41, 27);
+}
+.dream{
+    height: 250px;
+    width: 40%;
+    margin-left: 2%;
+    padding: 3%;
+    box-shadow: 10px 10px 5px brown;
+    border-radius: 5px;
+    float:left;
+   
+}
+.size{
+    font-size: 25px;
+    color: rgba(9, 14, 65, 0.993);    
+}
+#footer{
+   text-align: center;
+   color: blue;
+   font-size: 10px;
+}
+.line{
+    border-left: 10px solid;
+    border-image: linear-gradient(blue, rgba(141, 156, 4, 0.945));
+    border-image-slice: 3;
+}
